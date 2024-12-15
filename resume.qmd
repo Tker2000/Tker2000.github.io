@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Tyler Ker's Resume
+title: Resume
 ---
 # Tyler Ker
 International Sales Operations Analyst, Data Science Major
@@ -33,19 +33,20 @@ __Brigham Young Univerity, Idaho__
 
 ## Awards
 
-`2012`
-Star performer, *Melaleuca the Wellness Company*, Rexburg, Idaho
+`March 2023`
 Star performer, *Melaleuca the Wellness Company*, Rexburg, Idaho
 
+`November 2023`
+Star performer, *Melaleuca the Wellness Company*, Rexburg, Idaho
+
+`July 2024`
 Star performer, *Melaleuca the Wellness Company*, Idaho Falls, Idaho
 
 
 ## Occupation
 
-`2024-2022`
-__Deseret Book__, Idaho Falls, Idaho
-
-- Store Manager
+`February 2022 - November 2023`
+__Store Manager__, Deseret Book
 - Achieved top rank in the company and promoted to leadership within first three months of employment;
 - Instituted targeted training resulting in store key indicators moving from  6% on overall performance to 30% within a month. Overall company average was 6%;
 - Successfully provided daily oversight of staff, inventory, and financials as directed, obtaining and retaining first place in company for the duration of my employment.
