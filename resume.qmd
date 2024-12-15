@@ -1,89 +1,92 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tyler Ker's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tyler Ker
+International Sales Operations Analyst, Data Science Major
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ker21012@byui.edu">ker21012@byui.edu</a>
+| <a href="www.linkedin.com/in/tyler-ker-9513b622a">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as an International Sales Operations Analyst for Melaleuca: The Wellness Company.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Excel, SQL, Python, Data Visualization and Wrangling, Corporate training. 
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Growth-oriented leader with 5+ years of customer service and management experience. Skilled in training one-on-one or in large groups, mentoring, and in leading organizations to higher achievement. Excellent communication skills in native English and proficient in Portuguese and Spanish. Skilled in developing excellent relationships with both customers and employees at every level. Tech-savvy, company culture focused, and a very quick learner. 
 
 
 ## Education
+`2014 - 2018`
+__Gateway High School__
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`January 2022 - now`
+__Brigham Young Univerity, Idaho__
 
 
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
+Star performer, *Melaleuca the Wellness Company*, Rexburg, Idaho
+Star performer, *Melaleuca the Wellness Company*, Rexburg, Idaho
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Star performer, *Melaleuca the Wellness Company*, Idaho Falls, Idaho
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2024-2022`
+__Deseret Book__, Idaho Falls, Idaho
 
-- Warden
-- Minted coins
+- Store Manager
+- Achieved top rank in the company and promoted to leadership within first three months of employment;
+- Instituted targeted training resulting in store key indicators moving from  6% on overall performance to 30% within a month. Overall company average was 6%;
+- Successfully provided daily oversight of staff, inventory, and financials as directed, obtaining and retaining first place in company for the duration of my employment.
+- Achieved top rank in the company and promoted to leadership within first three months of employment;
+- Instituted targeted training resulting in store key indicators moving from  6% on overall performance to 30% within a month. Overall company average was 6%;
+- Successfully provided daily oversight of staff, inventory, and financials as directed, obtaining and retaining first place in company for the duration of my employment.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`January 2023 - April 2023`
+__Customer Service Associate__, Melaleuca The Wellness Company
 
+- Completed all customer service tests with 100% proficiency;
+- Consistently performing in the top 10% of my group since the first month of employment;
+- Regularly leading my team in key indicators; 
+- Demonstrated proficiency in grading both Spanish and English Calls.
 
+`April 2023 - July 2023`
+__Business Development Specialist__, Melaleuca The Wellness Company
+
+- Completed all Business Development evaluations and panels with 100% proficiency;
+- Performed within the top 10 of the department;
+- Successfully wrote and implemented the CS training program for Riverbend Ranch: Black Label, throughout all Melaleuca call centers;
+- Received the Star Performer award.
+
+`July 2023 - April 2024`
+__Customer care Trainer__, Melaleuca The Wellness Company
+
+- Created, updated, and implemented Customer Care training resources;
+- Raised CS test averages from 92.5% to total cumulative average of 96.06%, with a 3 month average of 99.2%;
+- Trained 2 new trainers; 
+- Led Training department as senior trainer in all training responsibilities.
+- Received the Star Performer award.
+
+`May 2024 - now`
+__International Sales Ops Analyst__, Melaleuca The Wellness Company
+
+- Store Manager
+- Achieved top rank in the company and promoted to leadership within first three months of employment;
+- Instituted targeted training resulting in store key indicators moving from  6% on overall performance to 30% within a month. Overall company average was 6%;
+- Successfully provided daily oversight of staff, inventory, and financials as directed, obtaining and retaining first place in company for the duration of my employment.
+- Achieved top rank in the company and promoted to leadership within first three months of employment;
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
